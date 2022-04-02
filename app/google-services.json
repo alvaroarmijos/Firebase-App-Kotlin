@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "524013681854",
+    "project_id": "pruebas-8712f",
+    "storage_bucket": "pruebas-8712f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524013681854:android:815b9be6a029308c93b2ef",
+        "android_client_info": {
+          "package_name": "com.example.criptotienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSv1E-4tL_j8R2BTdsNGpT5AvFc_qlkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524013681854:android:8fe096fc4d3d6dbf93b2ef",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSv1E-4tL_j8R2BTdsNGpT5AvFc_qlkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524013681854:android:065810421d2787c893b2ef",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones_pruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSv1E-4tL_j8R2BTdsNGpT5AvFc_qlkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524013681854-ko6ganmc7lumjuku740ssjpledmkdecu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
